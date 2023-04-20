@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Sathwika Madarapu</h1>
-<h6 align="center">I'm a third year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.</h6>
+<h6 align="center">I'm a fourth year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.</h6>
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **projects.**
-
-- 🤝 I’m looking for help with **internships.**
 
 - 💬 Ask me about **Python ML**
 
